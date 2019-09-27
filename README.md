@@ -11,3 +11,6 @@
 * [GAN](https://arxiv.org/abs/1406.2661)
 * [DCGAN](https://arxiv.org/abs/1511.06434)
 * [InfoGAN](https://arxiv.org/abs/1606.03657)
+
+
+[Latent Traversal]: ../resources/images/latent-traversal.png "Latent Traversal"
