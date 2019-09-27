@@ -3,8 +3,9 @@
 ## Repository contains implementation for following generative models:
 
 ### Variational Autoencoder
-* [Variational Autoencoder (Kingma 2013)](https://arxiv.org/abs/1312.6114)
-* [β-VAE (Higgins 2017)](https://openreview.net/forum?id=Sy2fzU9gl)
+* [Variational Autoencoder (Kingma 2013)](https://arxiv.org/abs/1312.6114) ([code]("code/VAE_+_Classifier.ipynb"))
+
+* [β-VAE (Higgins 2017)](https://openreview.net/forum?id=Sy2fzU9gl)([code](https://github.com/mchivuku/Learning-Disentangled-Latent-Spaces-using-Variational-Autoencoder/blob/master/code/VAE_%2B_Classifier.ipynb))
 * [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300)
 
 ### GAN
@@ -13,4 +14,4 @@
 * [InfoGAN](https://arxiv.org/abs/1606.03657)
 
 
-[Latent Traversal]: ../resources/images/latent-traversal.png "Latent Traversal"
+
