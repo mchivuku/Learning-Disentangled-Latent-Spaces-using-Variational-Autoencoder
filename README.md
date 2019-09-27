@@ -16,6 +16,6 @@
 
 ### Evaluation
 #### Latent Traversal results:
-[Latent Traversal](resources/images/latent-traversal.png)
+![Latent Traversal](resources/images/latent-traversal.png "Latent Traversal")
 
 
