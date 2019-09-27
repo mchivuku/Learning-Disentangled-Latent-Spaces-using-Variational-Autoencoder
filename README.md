@@ -1,4 +1,4 @@
-# CSB659 Final Project - Study of Disentangled Representation - Semi-supervised classification
+# Final Course Project - Learning Disentangled Latent Spaces using Variational Autoencoder
 
 ## Repository contains implementation for following generative models:
 
@@ -15,7 +15,9 @@
 
 
 ### Evaluation
-#### Latent Traversal results:
+#### Latent Traversal Results:
 ![Latent Traversal](resources/images/latent-traversal.png "Latent Traversal")
 
+### Classification Results:
+![Classifier performance](resources/images/classifier-results.png "Classifier")
 
