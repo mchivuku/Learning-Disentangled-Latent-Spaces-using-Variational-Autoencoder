@@ -1,5 +1,7 @@
 # Final Course Project - Learning Disentangled Latent Spaces using Variational Autoencoder
 
+**Report** - [Final Report](report.pdf)
+
 ## Repository contains implementation for following generative models:
 
 ### Variational Autoencoder
